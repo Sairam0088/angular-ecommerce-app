@@ -1,0 +1,96 @@
+{
+  "seller": [
+    {
+      "name": "Mister",
+      "email": "mister@gamil.com",
+      "password": "mister@123",
+      "id": 1
+    },
+    {
+      "name": "Sai",
+      "email": "Sai@test.com",
+      "password": "Sai@test",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "product": "Samsung",
+      "price": 34999,
+      "category": "Mobile",
+      "color": "Cloud Navy",
+      "description": "Good product",
+      "image": "https://m.media-amazon.com/images/I/41ezRvTwcaL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 1
+    },
+    {
+      "product": "Smart Watch",
+      "price": 1399,
+      "category": "Watch",
+      "color": "Black",
+      "description": "beatXP Marv Neo 1.85” (4.6 cm) Display",
+      "image": "https://m.media-amazon.com/images/I/31ZO9FflC8L._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 3
+    },
+    {
+      "product": "HP 15s",
+      "price": 39990,
+      "category": "Laptop",
+      "color": "Natural Silver",
+      "description": "11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD",
+      "image": "https://m.media-amazon.com/images/I/81o11eS8pLL._SX679_.jpg",
+      "id": 4
+    },
+    {
+      "product": "I Phone",
+      "price": 60500,
+      "category": "Mobile",
+      "color": "Grey",
+      "description": "Apple Product",
+      "image": "https://m.media-amazon.com/images/I/31VjlrbE3bL._SY445_SX342_QL70_FMwebp_.jpg",
+      "id": 2
+    },
+    {
+      "product": "One Plus",
+      "price": 18500,
+      "category": "Mobile",
+      "color": "Chromatic Gray",
+      "description": "Processor: Qualcomm Snapdragon 695 5G",
+      "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg",
+      "id": 2
+    }
+  ],
+  "Users": [
+    {
+      "name": "Sai",
+      "email": "sai@gmail.com",
+      "password": "sai@123",
+      "id": 1
+    },
+    {
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "password": "ram@123",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "hghdb@nu.om",
+      "address": "crvv, vfcrcc",
+      "contact": "7410852096",
+      "totalPrice": 121100,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "hghdb@nu.om",
+      "address": "crvv, vfcrcc",
+      "contact": "7410852096",
+      "totalPrice": 121100,
+      "userId": 2,
+      "id": 3
+    }
+  ]
+}

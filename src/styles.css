@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+}
+.common-form input{
+    height: 30px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    border: 1px solid red;
+    color: red;
+}
+.common-form textarea{
+    height: 30px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    border: 1px solid red;
+    color: red;
+}
+.common-form button{
+    height: 30px;
+    padding-left: 10px;
+    border: 1px solid red;
+    color: red;
+}
+.carousel-caption {
+    border-radius: 10px;
+    background: #00000054;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+    border-radius: 5px;    
+}
+
+.invalid-input{
+    color: red;
+    font-size: 12px;
+    margin-top: -10px;
+    text-align: left;
+}
+
+button:disabled{
+    cursor: not-allowed;
+}
+.error-p{
+    color: red;
+    text-align: left;
+}
